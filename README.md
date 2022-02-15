@@ -40,3 +40,7 @@ python install -r requirements.txt
 ```
 ## Screenshot
 ![](screenshots/login.png)
+![](screenshots/register.png)
+![](screenshots/teacher_bot.png)
+![](screenshots/task.png)
+
