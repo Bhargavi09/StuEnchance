@@ -38,6 +38,10 @@ Install the requirements
 ```bash
 python install -r requirements.txt
 ```
+Run the application 
+```bash
+python app.py
+```
 ## Screenshot
 ![](screenshots/login.png)
 ![](screenshots/register.png)
